@@ -6,7 +6,7 @@ public class Car {
 
     // we will have conflict
 
-    // becausr there is diferent
+    // because there is diferent
 
 
 
